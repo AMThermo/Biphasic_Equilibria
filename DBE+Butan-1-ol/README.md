@@ -4,8 +4,8 @@ This repository contains two Jupyter-Notebooks with the phasepy and sgtpy codes 
 ### Documents compiled in this repository:
   - *VLE-calculations.ipynb*: The Jupyter-Notebook is used to carry out the consistency analysis based on the $\gamma - \phi$ approach and the VLE calculations using  the $\phi - \phi$ scheme, which is based on the SAFT-VR Mie EoS.
   - *DynVIS-calculations.ipynb*: The Jupyter-Notebook is used to compute the liquid dynamic viscosity of pure fluids and the binary mixture using the Helmholtz scaling theory coupled with the SAFT-VR Mie.
-  - *dbe-1butanol.xlsx*: This is an external Excel file (dbe-1butanol.xlsx) which contains the experimental data. 
- - 
+  - *dbe-1butanol.xlsx*: This is an external Excel file (dbe-1butanol.xlsx) which contains the experimental data.
+     
 ### Citing this work
 Please, if you use the notebooks or the experimental data compiled in this page cite the original work where they were built as:
 - *J. Uceda, M. Cartes, A. Mejía. Measurements and Theoretical Modeling of Isobaric Vapor-Liquid Equilibria and Dynamic Viscosity for the Dibutyl Ether and Butan-1-ol Binary Mixture. Journal of Chemical & Engineering Data (2025)- Under revison*
