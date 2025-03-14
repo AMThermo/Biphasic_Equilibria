@@ -1,8 +1,10 @@
 # Vapor-Liquid Equilibria and Liquid Dynamic Viscosity for the  Dibutyl Ether + Butan-1-ol Binary Mixture.
-This repository contains two Jupyter-Notebooks with the phasepy and sgtpy codes to model this binary mixture. The notebooks also contain the experimental data measured at the Cohesion Laboratory (Concepción University). Note that you need to install the phasepy and sgtpy modules to use the notebook. We refer the reader to phasepy documentation for information on how to install it: https://github.com/gustavochm/phasepy and sgtpy documentation for information on how to install it: https://github.com/gustavochm/sgtpy. 
+This repository contains three Jupyter-Notebooks that use the phasepy and sgtpy codes to model this binary mixture. The notebooks also contain the experimental data measured at the Cohesion Laboratory (Concepción University). Note that you must install the phasepy and sgtpy modules to use the notebooks. 
+We refer the reader to phasepy documentation for information on how to install it: https://github.com/gustavochm/phasepy and sgtpy documentation for information on how to install it: https://github.com/gustavochm/sgtpy. 
 
 ### Documents compiled in this repository:
-  - *VLE-calculations.ipynb*: The Jupyter-Notebook is used to carry out the consistency analysis based on the $\gamma - \phi$ approach and the VLE calculations using  the $\phi - \phi$ scheme, which is based on the SAFT-VR Mie EoS.
+  - *VLE-consistency-test.ipynb*: This Jupyter-Notebook is used to carry out the consistency analysis based on the $\gamma - \phi$ approach.
+  - *VLE-SAFT-VR-Mie.ipynb*: The Jupyter-Notebook is used to carry out the VLE calculations using  the $\phi - \phi$ scheme, which is based on the SAFT-VR Mie EoS.
   - *DynVIS-calculations.ipynb*: The Jupyter-Notebook is used to compute the liquid dynamic viscosity of pure fluids and the binary mixture using the Helmholtz scaling theory coupled with the SAFT-VR Mie.
   - *dbe-1butanol.xlsx*: This is an external Excel file (dbe-1butanol.xlsx) which contains the experimental data.
      
