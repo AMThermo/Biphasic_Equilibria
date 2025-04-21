@@ -1,4 +1,4 @@
-# Thermophysical characterization of the synthetic oxygenate fuel mixture formed by hexane + cyclopentyl methyl ether + propan-1-ol.
+## Thermophysical characterization of the synthetic oxygenate fuel mixture formed by hexane + cyclopentyl methyl ether + propan-1-ol.
 This repository contains three Jupyter-Notebooks that use the sgtpy code to predict selected thermophysical properties of this ternary mixture. The notebooks also contain the experimental data measured at the Cohesion Laboratory (Universidad de Concepción). Note that you must install the sgtpy modules to use the notebooks. We refer the reader to sgtpy documentation for information on how to install it: https://github.com/gustavochm/sgtpy. 
 
 ### Documents compiled in this repository:
