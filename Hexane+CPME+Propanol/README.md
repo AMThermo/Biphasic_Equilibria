@@ -10,4 +10,4 @@ This repository contains three Jupyter-Notebooks that use the sgtpy code to pred
 
 ### Citing this work
 Please, if you use the notebooks or the experimental data compiled in this page cite the original work where they were built as:
-- *I. Huenuvil-Pacheco, M. Cartes and A. Mejía Thermophysical characterization of the synthetic oxygenate fuel mixture formed by hexane + cyclopentyl methyl ether + propan-1-ol” by submitted to the ChemSusChem Journal (2025)*
+- *I. Huenuvil-Pacheco, M. Cartes and A. Mejía. Toward Sustainable Fuel Formulations: Thermophysical Assessment of a Synthetic Oxygenated Blend Formed by hexane + cyclopentyl methyl ether + propan-1-ol” by submitted to Sustainable Energy & Fuels (2025)*
