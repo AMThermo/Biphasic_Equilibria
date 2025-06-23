@@ -10,4 +10,4 @@ We refer the reader to phasepy documentation for information on how to install i
      
 ### Citing this work
 Please, if you use the notebooks or the experimental data compiled in this page cite the original work where they were built as:
-- *J. Uceda, M. Cartes, A. Mejía. Measurements and Theoretical Modeling of Isobaric Vapor-Liquid Equilibria and Dynamic Viscosity for the Dibutyl Ether and Butan-1-ol Binary Mixture. Journal of Chemical & Engineering Data (2025)- Under revison*
+- *J. Uceda, M. Cartes, A. Mejía. Measurements and Theoretical Modeling of Isobaric Vapor-Liquid Equilibria and Dynamic Viscosity for the Dibutyl Ether and Butan-1-ol Binary Mixture. Journal of Chemical & Engineering Data 2025, 70, 6, 2371–2385, - (https://doi.org/10.1021/acs.jced.4c00725)*
